@@ -73,20 +73,9 @@ My first game jam! Teamed up with Vraj B. Khatri, built and presented a Godot ga
 
 ---
 
-## 📊 GitHub at a glance
+## 📊 GitHub activity
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wahwaeknoor-2008&show_icons=true&hide_border=true&bg_color=17233C&title_color=FFD45A&text_color=FFF8E8&icon_color=FFD45A&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahwaeknoor-2008&layout=compact&hide_border=true&bg_color=17233C&title_color=FFD45A&text_color=FFF8E8" alt="Most used languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=wahwaeknoor-2008&hide_border=true&background=17233C&ring=FFD45A&fire=FFD45A&currStreakLabel=FFD45A&sideLabels=FFF8E8&currStreakNum=FFF8E8&sideNums=FFF8E8&dates=B8C3D4" alt="GitHub contribution streak" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/wahwaeknoor-2008/wahwaeknoor-2008/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
-</div>
+You can see my recent work and contribution history in GitHub's profile activity graph below.
 
 ---
 
