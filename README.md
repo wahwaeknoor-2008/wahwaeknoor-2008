@@ -73,9 +73,27 @@ My first game jam! Teamed up with Vraj B. Khatri, built and presented a Godot ga
 
 ---
 
-## 📊 GitHub activity
+## ⚡ GitHub activity tracker
 
-You can see my recent work and contribution history in GitHub's profile activity graph below.
+A live snapshot of what I'm building and contributing to. The contribution map refreshes through GitHub Actions.
+
+<div align="center">
+  <a href="https://github.com/wahwaeknoor-2008?tab=overview">
+    <img src="https://raw.githubusercontent.com/wahwaeknoor-2008/wahwaeknoor-2008/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution activity map" width="100%" />
+  </a>
+</div>
+
+<div align="center">
+
+| **Explore my activity** | **Open tracker** |
+|:--|:--|
+| [All contributions](https://github.com/wahwaeknoor-2008?tab=overview) | [Contribution history](https://github.com/wahwaeknoor-2008/graphs/contributors) |
+| [Recent commits](https://github.com/search?q=author%3Awahwaeknoor-2008&type=commits) | [All repositories](https://github.com/wahwaeknoor-2008?tab=repositories) |
+| [Pull requests](https://github.com/pulls?q=is%3Apr+author%3Awahwaeknoor-2008) | [Issues](https://github.com/issues?q=is%3Aissue+author%3Awahwaeknoor-2008) |
+
+</div>
+
+**Jump into a project:** [Resumind commits](https://github.com/wahwaeknoor-2008/AI-Resume-Reviewer/commits/main/) · [AURA commits](https://github.com/wahwaeknoor-2008/aura-student-companion/commits/main/) · [Butt Bounce commits](https://github.com/wahwaeknoor-2008/Butt-Bounce/commits/main/)
 
 ---
 
