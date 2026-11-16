@@ -25,40 +25,40 @@
 
 I'm a first-year **Computer Science student at the University of Waterloo** who enjoys learning by building. I like exploring how software, AI, and hardware can come together to solve real problems.
 
-- 🔭 Currently building **WATpass**, an NFC-based student pass concept.
-- 🌱 Exploring software development, AI, mobile apps, and hardware projects.
-- 🧩 I enjoy taking an idea from a rough concept to something people can actually try.
-- 🤝 Always happy to connect with other students, developers, and builders.
+- Currently building **WATpass**, an NFC-based student pass concept.
+-  Exploring software development, AI, mobile apps, and hardware projects.
+-  I enjoy taking an idea from a rough concept to something people can actually try.
+-  Always happy to connect with other students, developers, and builders.
 
-## 🛠️ Tools I work with
+##  Tools I work with
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,fastapi,git,github,arduino,androidstudio,godot&perline=6" alt="Technology icons" />
 </div>
 
-## 🚀 Featured projects
+##  Featured projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 Resumind — AI Resume Reviewer</h3>
+      <h3> Resumind — AI Resume Reviewer</h3>
       <p>An AI-powered tool that reviews résumés and provides feedback.</p>
       <p><a href="https://resumind-jade-ten.vercel.app/">Live demo</a> · <a href="https://github.com/wahwaeknoor-2008/AI-Resume-Reviewer">Source code</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>📱 AURA — Student Companion</h3>
+      <h3> AURA — Student Companion</h3>
       <p>A student-focused mobile app with a chat interface, built with React Native and a FastAPI backend.</p>
       <p><a href="https://github.com/wahwaeknoor-2008/aura-student-companion">Source code</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔐 WATpass — NFC Student Pass</h3>
+      <h3> WATpass — NFC Student Pass</h3>
       <p>An NFC-based student pass concept exploring mobile credentials and secure credential storage.</p>
       <p><a href="https://github.com/wahwaeknoor-2008">Explore my repositories</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎮 Butt Bounce: Rooftop Rush</h3>
+      <h3> Butt Bounce: Rooftop Rush</h3>
       <p>A game made with Godot with Vraj B. Khatri for the Hack Club Haven game jam, based on the theme “Bounce Back”.</p>
       <p>🥉 <strong>3rd place</strong> · <a href="https://spidervraj.itch.io/butt-bounce-rooftop-rush">Play the game</a> · <a href="https://github.com/wahwaeknoor-2008/Butt-Bounce">Open-source code</a></p>
     </td>
